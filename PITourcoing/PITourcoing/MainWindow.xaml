@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PITourcoing"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="800" ResizeMode="NoResize">
+        Title="PITourcoing" Height="500" Width="800" ResizeMode="NoResize">
     <Grid>
         <Image x:Name="cesi" Margin="0,0,682.667,352" Source="C:\Users\USER\Desktop\PITourcoing\PITourcoing\PITourcoing\assets\cesi.png" Stretch="Fill"/>
         <Label Content="Plaine Image Tourcoing Application" FontSize="35" HorizontalAlignment="Left" Margin="147,-1,-13.333,0" VerticalAlignment="Top" Height="66" Width="661" RenderTransformOrigin="0.5,0.5">

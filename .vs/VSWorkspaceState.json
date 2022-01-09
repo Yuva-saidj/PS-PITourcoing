@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PITourcoing"
+    "\\PITourcoing",
+    "\\PITourcoing\\PITourcoing"
   ],
+  "SelectedNode": "\\PITourcoing\\PITourcoing\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
