@@ -25,6 +25,16 @@ namespace PITourcoing
         private string ans;
         private int score = 0;
         private int number = 1;
+        private static MainWindow Instance;
+
+        public static MainWindow getInstance()
+        {
+            if (Instance == null)
+            {
+                Instance = new MainWindow();
+            }
+            return Instance;
+        }
         public MainWindow()
         {
             InitializeComponent();
